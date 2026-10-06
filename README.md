@@ -68,7 +68,6 @@ Si sobrevives a este challenge, desbloqueas:
     Interpretación de coeficientes.
     Validación cruzada.
     Regularización (Ridge y Lasso: los psicólogos de los modelos ansiosos).
-
     Un modelo que memoriza todo el dataset no es brillante. Es tóxico.
 
 ⚖️ Requisitos obligatorios:
